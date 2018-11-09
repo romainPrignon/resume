@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "Romain Prignon",
+    "label": "Software Engineer (full-stack)",
+    "email": "r.prignon@gmail.com",
+    "website": "https://www.linkedin.com/in/romain-prignon",
+    "location": {
+      "city": "Lyon",
+      "countryCode": "FR"
+    }
+  },
+  "work": [
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Compression"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Climbing"
+    },
+    {
+      "name": "Travelling"
+    }
+  ]
+}

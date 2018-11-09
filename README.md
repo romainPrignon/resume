@@ -1,2 +1,13 @@
 # resume
-personnal jsonresume
+
+> personnal jsonresume
+
+## install
+```sh
+npm install
+```
+
+## usage
+```sh
+npx resume
+```

@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "personnal jsonresume",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainPrignon/resume.git"
+  },
+  "main": "resume.json",
+  "dependencies": {
+    "resume-cli": "^1.1.2"
+  }
+}
