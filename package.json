@@ -8,10 +8,11 @@
   },
   "main": "resume.json",
   "scripts": {
-    "export": "resume export -t flat resume.raw.flat.pdf && resume export -t flat resume.raw.flat.html"
+    "export:html": "resume export -t flat resume.raw.flat.html",
+    "export:pdf": "resume export -t flat resume.raw.flat.pdf"
   },
   "dependencies": {
-    "jsonresume-theme-short": "0.1.7",
+    "jsonresume-theme-short": "^0.1.7",
     "resume-cli": "^1.1.2"
   }
 }
