@@ -16,5 +16,7 @@ npx resume
 
 ### export
 ```sh
-npm run export
+npm run export:html
+npm run export:pdf
 ```
+Then, edit raw file to create final html and pdf file

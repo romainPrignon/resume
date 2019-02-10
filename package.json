@@ -9,7 +9,7 @@
   "main": "resume.json",
   "scripts": {
     "export:html": "resume export -t flat resume.raw.flat.html",
-    "export:pdf": "resume export -t flat resume.raw.flat.pdf"
+    "export:pdf": "wkhtmltopdf resume.flat.html resume.wkt.flat.pdf"
   },
   "dependencies": {
     "jsonresume-theme-short": "^0.1.7",
