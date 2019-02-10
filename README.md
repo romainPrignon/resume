@@ -2,7 +2,7 @@
 
 > personnal json-resume
 
-Public version available at: https://registry.jsonresume.org/romainprignon
+Public version available at: https://romainprignon.github.io/resume/resume.flat.html
 
 ## install
 ```sh
