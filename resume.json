@@ -4,7 +4,7 @@
     "label": "Software Engineer (full-stack)",
     "email": "r.prignon@gmail.com",
     "website": "https://www.linkedin.com/in/romain-prignon",
-    "summary": "As a developer in an IT consulting company called Peaks. I helped several customer to build great products",
+    "summary": "As a developer in an IT consulting agency called Peaks, I helped several Peaks's customer to build great products. Here is a list of tools I feel confident to work with and a list of mission I participated with Peaks",
     "location": {
       "city": "Lyon",
       "countryCode": "FR"
@@ -12,38 +12,16 @@
   },
   "work": [
     {
-      "company": "Alptis",
+      "company": "Bouquet.ai",
       "position": "full-stack Developer",
-      "website": "Insurrance company",
-      "startDate": "2013-10-01",
-      "endDate": "2015-01-01",
+      "website": "Business intelligence / chatbot",
+      "startDate": "2018-05-01",
+      "endDate": "2019-01-31",
       "highlights": [
-        "Develop frontend website of the company for customer to compare insurance contract (Symfony 3)"
-      ]
-    },
-    {
-      "company": "M6web",
-      "position": "full-stack Developer",
-      "website": "National TV channel",
-      "startDate": "2015-01-01",
-      "endDate": "2016-11-01",
-      "highlights": [
-        "Bootstrap dev environment (unit test, continuous integration)",
-        "Develop a web app to help viewer estimate their vehicle price. Based on a tv-program (react.js)",
-        "Develop a photo viewer (pinterest for home decoration) (react.js, server side rendering, SEO)"
-      ]
-    },
-    {
-      "company": "Lelivrescolaire.fr",
-      "position": "full-stack Developer",
-      "website": "Book editor (education sector)",
-      "startDate": "2016-11-01",
-      "endDate": "2017-09-01",
-      "highlights": [
-        "Develop a web admin to edit scholar books, web app licenses (react.js)",
-        "Develop an ETL to import xls file into the database (node.js)",
-        "Develop an OAI wharehouse for http://gar.education.fr using OAI2 protocol (node.js)",
-        "Develop SSO on the web platform (CAS, OAUTH, SAML2)"
+        "Buid a chatbot on analytics data (node.js, express)",
+        "Architect infrastructure using docker Swarm (continuous deployment, ~10 services in prod)",
+        "Refactor admin webapp (react.js)",
+        "Build an url shortener (bitly like) to secure some url (nodejs, micro)"
       ]
     },
     {
@@ -60,31 +38,53 @@
       ]
     },
     {
-      "company": "Bouquet.ai",
+      "company": "Lelivrescolaire.fr",
       "position": "full-stack Developer",
-      "website": "Business intelligence / chatbot",
-      "startDate": "2018-05-01",
-      "endDate": "2019-01-31",
+      "website": "Book editor (education sector)",
+      "startDate": "2016-11-01",
+      "endDate": "2017-09-01",
       "highlights": [
-        "Buid a chatbot on analytics data (node.js, express)",
-        "Architect infrastructure using docker Swarm (continuous deployment, ~10 services in prod)",
-        "Refactor admin webapp (react.js)",
-        "Build an url shortener (bitly like) to secure some url (nodejs, micro)"
+        "Develop a web admin to edit scholar books, web app licenses (react.js)",
+        "Develop an ETL to import xls file into the database (node.js)",
+        "Develop an OAI wharehouse for http://gar.education.fr using OAI2 protocol (node.js)",
+        "Develop SSO on the web platform (CAS, OAUTH, SAML2)"
+      ]
+    },
+    {
+      "company": "M6web",
+      "position": "full-stack Developer",
+      "website": "National TV channel",
+      "startDate": "2015-01-01",
+      "endDate": "2016-11-01",
+      "highlights": [
+        "Bootstrap dev environment (unit test, continuous integration)",
+        "Develop a web app to help viewer estimate their vehicle price. Based on a tv-program (react.js)",
+        "Develop a photo viewer (pinterest for home decoration) (react.js, server side rendering, SEO)"
+      ]
+    },
+    {
+      "company": "Alptis",
+      "position": "full-stack Developer",
+      "website": "Insurrance company",
+      "startDate": "2013-10-01",
+      "endDate": "2015-01-01",
+      "highlights": [
+        "Develop frontend website of the company for customer to compare insurance contract (Symfony 3)"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Claude Bernard (University)",
-      "studyType": "Technical degree in computer science",
-      "startDate": "2008-09-01",
-      "endDate": "2010-09-01"
-    },
-    {
       "institution": "CPE Lyon (Engineering school)",
       "studyType": "Engineering degree in computer science (Apprenticeship)",
       "startDate": "2010-09-01",
       "endDate": "2013-09-01"
+    },
+    {
+      "institution": "Claude Bernard (University)",
+      "studyType": "Technical degree in computer science",
+      "startDate": "2008-09-01",
+      "endDate": "2010-09-01"
     }
   ],
   "skills": [
