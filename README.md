@@ -10,13 +10,15 @@ npm install
 ```
 
 ## usage
-```sh
-npx resume
-```
 
-### export
+- edit resume.json
+- export as raw html `resume.raw.flat.html`
 ```sh
 npm run export:html
+```
+- edit raw html and save it to `resume.flat.html`
+- export as pdf `resume.flat.pdf`
+```sh
 npm run export:pdf
 ```
-Then, edit raw file to create final html and pdf file
+- open `resume.flat.html` into chrome and save as `resume.chrome.flat.html`

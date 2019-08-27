@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Romain Prignon",
-    "label": "Software Engineer (full-stack)",
+    "label": "Web Developer (full-stack)",
     "email": "r.prignon@gmail.com",
     "website": "https://www.linkedin.com/in/romain-prignon",
     "summary": "As a developer in an IT consulting agency called Peaks, I helped several Peaks's customer to build great products. Here is a list of tools I feel confident to work with and a list of mission I participated with Peaks",
@@ -12,13 +12,24 @@
   },
   "work": [
     {
+      "company": "Stormshield",
+      "position": "full-stack Developer",
+      "website": "Cyber security / Networking",
+      "startDate": "2019-02-01",
+      "endDate": "2019-08-31",
+      "highlights": [
+        "Improve application to handle thousand firewalls via websocket",
+        "Develop dashboard to display remaining user stories (vuejs, vuex)"
+      ]
+    },
+    {
       "company": "Bouquet.ai",
       "position": "full-stack Developer",
       "website": "Business intelligence / chatbot",
       "startDate": "2018-05-01",
       "endDate": "2019-01-31",
       "highlights": [
-        "Buid a chatbot on analytics data (node.js, express)",
+        "Build a chatbot on analytics data (node.js, express)",
         "Architect infrastructure using docker Swarm (continuous deployment, ~10 services in prod)",
         "Refactor admin webapp (react.js)",
         "Build an url shortener (bitly like) to secure some url (nodejs, micro)"
