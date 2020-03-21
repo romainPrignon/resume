@@ -4,13 +4,25 @@
     "label": "Web Developer (full-stack)",
     "email": "r.prignon@gmail.com",
     "website": "https://www.linkedin.com/in/romain-prignon",
-    "summary": "As a developer in an IT consulting agency called Peaks, I helped several Peaks's customer to build great products. Here is a list of tools I feel confident to work with and a list of mission I participated with Peaks",
+    "summary": "As an IT consultant, I helped several companies to build great products. Here is a list of tools I feel confident to work with and a list of mission I participated",
     "location": {
       "city": "Lyon",
       "countryCode": "FR"
     }
   },
   "work": [
+    {
+      "company": "Tourwriter",
+      "position": "full-stack Developer",
+      "website": "Tour Operator Software",
+      "startDate": "2019-10-01",
+      "endDate": "2019-12-31",
+      "highlights": [
+        "Develop new feature on a webapp (react) for Travel Agency Users",
+        "Build REST endpoints (nodejs)",
+        "Migrate codebase to typescript"
+      ]
+    },
     {
       "company": "Stormshield",
       "position": "full-stack Developer",
