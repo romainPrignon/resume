@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Romain Prignon",
-    "label": "Web Developer (full-stack)",
+    "label": "Staff Software Engineer",
     "email": "r.prignon@gmail.com",
     "website": "https://www.linkedin.com/in/romain-prignon",
-    "summary": "As an IT consultant, I helped several companies to build great products. Here is a list of tools I feel confident to work with and a list of mission I participated",
+    "summary": "As a Junior Staff Software Engineer / Senior Software Engineer, I am currently responsible for the Developer Experience of ~25 developers.\nWith strong competencies in web development, I create cross-team collaboration to address better Developer Experience.\n\nMy day to day work is to coordinate (or realize) technical features and production system improvements.\nI favor DevOps and Agile methodologies to deploy most applications.\n\nThe ideal environment I would like to contribute implies the following\n- simplicity is essential\n- strive excellence\n- act consistently with empathy\n- without psychological safety, respect, and trust, nothing is possible",
     "location": {
       "city": "Lyon",
       "countryCode": "FR"
@@ -12,9 +12,32 @@
   },
   "work": [
     {
+      "company": "Indy",
+      "position": "DevX / DevOps Engineer",
+      "website": "Accountability Software",
+      "startDate": "2021-03-01",
+      "endDate": "2022-09-31",
+      "highlights": [
+        "Setup 'Infra as code' culture",
+        "Define and realize deployment process (architecture decision record, CLI tools, automation)",
+        "Roadmap definition for the 'Developer Experience' (25 developers)",
+        "Coordinate 'Developer Experience' projects (typescript migration at scale, Monorepo, dependencies automation)"
+      ]
+    },
+    {
+      "company": "LinkValue",
+      "position": "Lead Developer",
+      "website": "IT Consulting Company",
+      "startDate": "2020-10-01",
+      "endDate": "2021-02-31",
+      "highlights": [
+        "Presales: estimate technical work on potential new project"
+      ]
+    },
+    {
       "company": "Tourwriter",
-      "position": "full-stack Developer",
-      "website": "Tour Operator Software",
+      "position": "Fullstack Engineer",
+      "website": "Tour Operator Software (work holiday visa)",
       "startDate": "2019-10-01",
       "endDate": "2019-12-31",
       "highlights": [
@@ -25,19 +48,20 @@
     },
     {
       "company": "Stormshield",
-      "position": "full-stack Developer",
-      "website": "Cyber security / Networking",
+      "position": "Fullstack Engineer",
+      "website": "Cyber security / Networking (consulting)",
       "startDate": "2019-02-01",
       "endDate": "2019-08-31",
       "highlights": [
-        "Improve application to handle thousand firewalls via websocket",
-        "Develop dashboard to display remaining user stories (vuejs, vuex)"
+        "Network performance audit (backend-frontend throughput)",
+        "Data storage Audit (R&D on which database to choose)",
+        "Dashboard refactorisation (vuejs, vuex)"
       ]
     },
     {
       "company": "Bouquet.ai",
-      "position": "full-stack Developer",
-      "website": "Business intelligence / chatbot",
+      "position": "Fullstack Engineer",
+      "website": "Business intelligence / chatbot (consulting)",
       "startDate": "2018-05-01",
       "endDate": "2019-01-31",
       "highlights": [
@@ -49,8 +73,8 @@
     },
     {
       "company": "TATA communication",
-      "position": "full-stack Developer",
-      "website": "Video editing platform",
+      "position": "Fullstack Engineer",
+      "website": "Video editing platform (consulting)",
       "startDate": "2017-09-01",
       "endDate": "2018-05-01",
       "highlights": [
@@ -62,8 +86,8 @@
     },
     {
       "company": "Lelivrescolaire.fr",
-      "position": "full-stack Developer",
-      "website": "Book editor (education sector)",
+      "position": "Fullstack Engineer",
+      "website": "EdTech (consulting)",
       "startDate": "2016-11-01",
       "endDate": "2017-09-01",
       "highlights": [
@@ -75,8 +99,8 @@
     },
     {
       "company": "M6web",
-      "position": "full-stack Developer",
-      "website": "National TV channel",
+      "position": "Fullstack Engineer",
+      "website": "National TV channel (consulting)",
       "startDate": "2015-01-01",
       "endDate": "2016-11-01",
       "highlights": [
@@ -87,12 +111,24 @@
     },
     {
       "company": "Alptis",
-      "position": "full-stack Developer",
-      "website": "Insurrance company",
+      "position": "Fullstack Engineer",
+      "website": "Insurrance company (consulting)",
       "startDate": "2013-10-01",
       "endDate": "2015-01-01",
       "highlights": [
         "Develop frontend website of the company for customer to compare insurance contract (Symfony 3)"
+      ]
+    },
+    {
+      "company": "Peaks",
+      "position": "Fullstack Engineer",
+      "website": "IT Consulting Company",
+      "startDate": "2013-09-01",
+      "endDate": "2021-09-31",
+      "highlights": [
+        "Consultancy work (see above)",
+        "Help the core team with technical interview and setup new projects for other consultants in our internal lab",
+        "Ambassador: animate node.js and symfony community (mentoring, follow trends)"
       ]
     }
   ],
@@ -115,13 +151,16 @@
       "name": "frontend react.js redux"
     },
     {
-      "name": "backend express.js (node.js) Symfony (PHP)"
+      "name": "backend node.js graphql"
     },
     {
-      "name": "devOps vagrant docker ansible"
+      "name": "devOps terraform docker ansible python"
     },
     {
       "name": "Method UML S.O.L.I.D Functionnal programming"
+    },
+    {
+      "name": "Management Project management team federation"
     }
   ],
   "languages": [
