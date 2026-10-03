@@ -2,8 +2,8 @@
 
 > personnal json-resume
 
-Public version available at: <https://romainprignon.github.io/resume/resume.flat.html>
-Public JSON version available at: [resume.json](https://raw.githubusercontent.com/romainPrignon/resume/refs/heads/master/resume.json)
+- Public version available at: <https://romainprignon.github.io/resume/resume.flat.html>
+- Public JSON version available at: [resume.json](https://raw.githubusercontent.com/romainPrignon/resume/refs/heads/master/resume.json)
 
 ## install
 
