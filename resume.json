@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Romain Prignon",
-    "label": "Staff Software Engineer",
-    "email": "r.prignon@gmail.com",
+    "label": "Director of Engineering",
     "website": "https://www.linkedin.com/in/romain-prignon",
-    "summary": "As a Junior Staff Software Engineer / Senior Software Engineer, I am currently responsible for the Developer Experience of ~25 developers.\nWith strong competencies in web development, I create cross-team collaboration to address better Developer Experience.\n\nMy day to day work is to coordinate (or realize) technical features and production system improvements.\nI favor DevOps and Agile methodologies to deploy most applications.\n\nThe ideal environment I would like to contribute implies the following\n- simplicity is essential\n- strive excellence\n- act consistently with empathy\n- without psychological safety, respect, and trust, nothing is possible",
+    "summary": "With more than 15 years in the web ecosystem, I have had the chance to grow with outstanding organizations.\n\nCurrently, I thrive on creating cross-team collaboration to deliver high-value products and meet product goals while improving Developer Experience (DevEx).\nI am a 'builder-leader' who remains hands-on with technical functionality and production system improvements while scaling teams.\n\nThe ideal environment I like to contribute implies\n- simplicity and excellence\n- act consistently with empathy\n- psychological safety, respect,and trust",
     "location": {
       "city": "Lyon",
       "countryCode": "FR"
@@ -12,16 +11,49 @@
   },
   "work": [
     {
+      "company": "Fulll",
+      "position": "Lead Software Architect",
+      "website": "Payroll and HR",
+      "startDate": "2023-07-01",
+      "endDate": "2026-07-31",
+      "highlights": [
+        "Overseeing the technical strategy and organizational growth across 6 feature teams",
+        "Define software architecture (15 applications and databases in production)",
+        "Coordinate multiple feature teams to reach product goals",
+        "Help Improve feature teams best practices, tooling and methodologies",
+        "Directly managing 6 Tech Leads and overseeing an organization of 25 developers",
+        "Hiring process participation",
+        "Partner with the SRE/Infra team to manage infrastructure and the production platform",
+        "Identify and mitigate technology-related risks"
+      ]
+    },
+    {
+      "company": "365Talents",
+      "position": "Software Architect",
+      "website": "SaaS HR",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-30",
+      "highlights": [
+        "Coordinate with Engineering managers and feature teams to design new applications",
+        "Define codebase architecture to improve code quality (ADR, diagram,...)",
+        "Developer Experience (15 developers)",
+        "Advise feature teams on best practices to improve efficiency and productivity",
+        "Optimize development process (performance, quality, ...)",
+        "Technical functionality development",
+        "Partner with the DevOps team to manage infrastructure and kubernetes clusters"
+      ]
+    },
+    {
       "company": "Indy",
       "position": "DevX / DevOps Engineer",
       "website": "Accountability Software",
       "startDate": "2021-03-01",
       "endDate": "2022-09-31",
       "highlights": [
-        "Setup 'Infra as code' culture",
-        "Define and realize deployment process (architecture decision record, CLI tools, automation)",
-        "Roadmap definition for the 'Developer Experience' (25 developers)",
-        "Coordinate 'Developer Experience' projects (typescript migration at scale, Monorepo, dependencies automation)"
+        "Start an 'Infrastructure as code' culture within the company",
+        "Define and implement deployment process (ADR, CLI tools, automation)",
+        "Define the annual Developer Experience Roadmap for 25 developers",
+        "Coordinate DevEx projects with a Guild (typescript migration, Monorepo,...)"
       ]
     },
     {
@@ -31,7 +63,8 @@
       "startDate": "2020-10-01",
       "endDate": "2021-02-31",
       "highlights": [
-        "Presales: estimate technical work on potential new project"
+        "Presales: estimate technical work on potential new project",
+        "Define new projects software foundation"
       ]
     },
     {
@@ -124,7 +157,7 @@
       "position": "Fullstack Engineer",
       "website": "IT Consulting Company",
       "startDate": "2013-09-01",
-      "endDate": "2021-09-31",
+      "endDate": "2020-09-31",
       "highlights": [
         "Consultancy work (see above)",
         "Help the core team with technical interview and setup new projects for other consultants in our internal lab",
@@ -148,19 +181,48 @@
   ],
   "skills": [
     {
-      "name": "frontend react.js redux"
+      "name": "Management",
+      "keywords": ["Career path", "Objectives", "Annual review", "Hiring", "Mentoring"]
     },
     {
-      "name": "backend node.js graphql"
+      "name": "Technical Leadership",
+      "keywords": ["Roadmap Definition", "Presales", "Estimates"]
     },
     {
-      "name": "devOps terraform docker ansible python"
+      "name": "Languages",
+      "keywords": ["TypeScript", "JavaScript", "Python", "SQL"]
     },
     {
-      "name": "Method UML S.O.L.I.D Functionnal programming"
+      "name": "Ai",
+      "keywords": ["Claude Code", "Copilot", "Agents", "MCP", "Skills", "Evals"]
     },
     {
-      "name": "Management Project management team federation"
+      "name": "Frontend",
+      "keywords": ["react", "redux"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Node.js", "GraphQL", "Express.js", "REST"]
+    },
+    {
+      "name": "Data",
+      "keywords": ["MySQL", "MongoDB", "PostgreSQL", "Neo4j", "Elasticsearch", "Kafka"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Terraform", "Docker", "Ansible", "Kubernetes", "Github Actions"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["AWS", "Google Cloud", "Cloudfare"]
+    },
+    {
+      "name": "Architecture",
+      "keywords": ["DDD", "KISS", "YAGNI", "ADR", "Functional programming"]
+    },
+    {
+      "name": "Methods",
+      "keywords": ["Agile", "Scrum", "Kanban"]
     }
   ],
   "languages": [
